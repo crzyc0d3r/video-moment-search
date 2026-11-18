@@ -1,0 +1,5 @@
+-r requirements.txt
+# Optional real local multimodal model; use versions supporting EmbeddingGemma2.
+sentence-transformers
+transformers
+torch

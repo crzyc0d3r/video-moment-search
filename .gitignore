@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.local/
+*.npz
+*.mp4
+*.webm
+*.mov
+*.avi
+*.mkv
+artifacts/
+outputs/
+.repo-meta.json
